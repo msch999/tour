@@ -40,6 +40,14 @@
 						<span>About</span>
 					</a>
 				</li>
+
+				<li class:active={path === '/home/msch'}>
+					<a href="/home/msch">
+						<p>💫</p>
+						<span>No tutorial stuff</span>
+					</a>
+				</li>
+
 			</ul>
 		</nav>
 
